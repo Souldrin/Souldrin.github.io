@@ -18,7 +18,7 @@ div{
 
 .square-1:hover{
   transform: scale(2);
-  margin: auto;
+  margin:auto;
 }
 
 .square-2:hover{
