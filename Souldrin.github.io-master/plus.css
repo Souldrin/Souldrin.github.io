@@ -1,0 +1,18 @@
+/*izvēlās nākošo brāli*/
+h1 + p{
+    background-color: pink;
+}
+
+.my-button {
+    background-color: #4CAF50; /* Green background */
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 12px 24px; /* Some padding */
+    font-size: 16px; /* Set font size */
+    cursor: pointer; /* Change mouse cursor on hover */
+  }
+  
+  .my-button:hover {
+    background-color: #3e8e41; /* Dark green background on hover */
+  }
+  

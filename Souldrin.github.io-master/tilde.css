@@ -1,0 +1,7 @@
+h1 ~ div {
+    width: 100px;
+    height: 100px;
+    background-color: yellowgreen;
+    margin-bottom: 10px;
+    border: 5px dashed purple;
+}
